@@ -6,6 +6,6 @@
 [https://github.com/AdministratorLua/Roblox-Scripts-For-Celery/tree/main/Scripts] 
 
 # Celery Executor Official Discord Server
-<p align="center">
-    <a href="https://discord.gg/Celery"><p align="left"><img src="https://raw.githubusercontent.com/AdministratorLua/AdministratorLua/main/wZgPoYaVlU0gAAAABJRU5ErkJggg.png" width="150" height="50"/></a>
+<p align="left">
+        <a href="https://discord.gg/Celery"><img src="https://raw.githubusercontent.com/AdministratorLua/AdministratorLua/main/wZgPoYaVlU0gAAAABJRU5ErkJggg.png" width="150" height="50"/></a>
 </p>
