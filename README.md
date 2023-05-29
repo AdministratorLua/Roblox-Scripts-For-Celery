@@ -12,7 +12,13 @@
 		</a>
 	</p>
 </div>
-		
+
+# Read This First.
+## Educational Purposes Only. 
+### Exploit is Not Allowed in Roblox
+#### We take not responsibility if you get banned in Roblox. all it's your responsibility.
+#### Self-responsibility.
+
 # Description
 This Project Adding Scripts for Celery Executor [Roblox]
 	
