@@ -17,6 +17,39 @@
 ## Educational Purposes Only. 
 ### Exploit is Not Allowed in Roblox
 #### We take not responsibility if you get banned in Roblox. all it's your responsibility.
+<div align="Left"
+     <p>
+<a href="https://google.com"><img src="https://img.shields.io/static/v1?label=LeaveThis&style=for-the-badge&message=Project&color=2e2c2c" width="150" height="30"/></a>
+</div>
+
+
+# Warning 1
+## Educational Purposes Only. 
+### Exploit is Not Allowed in Roblox
+#### We take not responsibility if you get banned in Roblox. all it's your responsibility.
+<div align="Left"
+     <p>
+<a href="https://google.com"><img src="https://img.shields.io/static/v1?label=LeaveThis&style=for-the-badge&message=Project&color=2e2c2c" width="150" height="30"/></a>
+</div>
+
+# Warning 2
+## Educational Purposes Only. 
+### Exploit is Not Allowed in Roblox
+#### We take not responsibility if you get banned in Roblox. all it's your responsibility.
+<div align="Left"
+     <p>
+<a href="https://google.com"><img src="https://img.shields.io/static/v1?label=LeaveThis&style=for-the-badge&message=Project&color=2e2c2c" width="150" height="30"/></a>
+</div>
+
+# Warning 3
+## Educational Purposes Only. 
+### Exploit is Not Allowed in Roblox
+#### We take not responsibility if you get banned in Roblox. all it's your responsibility.
+<div align="Left"
+     <p>
+<a href="https://google.com"><img src="https://img.shields.io/static/v1?label=LeaveThis&style=for-the-badge&message=Project&color=2e2c2c" width="150" height="30"/></a>
+</div>
+
 
 # Description
 This Project Adding Scripts for Celery Executor [Roblox]
