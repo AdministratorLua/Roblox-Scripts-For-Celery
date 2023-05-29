@@ -4,4 +4,7 @@
 [https://github.com/AdministratorLua/Roblox-Scripts-For-Celery/tree/main/Scripts] 
 
 # Celery Executor Official Discord Server
-[https://discord.gg/celery]
+<p align="center">
+    <a href="https://discord.gg/Celery"><img src="https://raw.githubusercontent.com/AdministratorLua/AdministratorLua/main/wZgPoYaVlU0gAAAABJRU5ErkJggg.png"></a>
+    <img src="https://img.shields.io/static/v1?label=ScriptPoster:&style=for-the-badge&message=AdministratorLua&color=2e2c2c">
+</p>
