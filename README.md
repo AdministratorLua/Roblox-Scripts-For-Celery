@@ -5,6 +5,6 @@
 
 # Celery Executor Official Discord Server
 <p align="center">
-    <a href="https://discord.gg/Celery"><img src="https://raw.githubusercontent.com/AdministratorLua/AdministratorLua/main/wZgPoYaVlU0gAAAABJRU5ErkJggg.png"></a>
+    <a href="https://discord.gg/Celery"><img src="https://raw.githubusercontent.com/AdministratorLua/AdministratorLua/main/wZgPoYaVlU0gAAAABJRU5ErkJggg.png" width="400" height="500"/></a>
     <img src="https://img.shields.io/static/v1?label=ScriptPoster:&style=for-the-badge&message=AdministratorLua&color=2e2c2c">
 </p>
