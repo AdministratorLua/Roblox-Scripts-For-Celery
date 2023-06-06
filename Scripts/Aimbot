@@ -1,3 +1,5 @@
+-- This Script was Not Created by The FBI.
+
 game.StarterGui:SetCore("SendNotification",{Title="System",Text="This Script Posted by The FBI.",Icon="",Duration=5
 local Camera = workspace.CurrentCamera
 local Players = game:GetService("Players")
