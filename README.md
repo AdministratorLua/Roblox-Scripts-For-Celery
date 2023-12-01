@@ -13,17 +13,13 @@
 	</p>
 </div>
 
-# Description
-## This Project Adding Scripts for Celery Executor [Roblox]
-
 # Scripts Link
-## Click This Button for Scripts. 
 <div align="Left"
      <p>
 <a href="https://github.com/AdministratorLua/Roblox-Scripts-For-Celery/tree/main/Scripts"><img src="https://img.shields.io/static/v1?label=Roblox&style=for-the-badge&message=Scripts&color=2e2c2c" width="150" height="30"/></a>
 </div>
 
-# Celery Executor Official Discord Server
+# Discord Server
 <p align="Left">
         <a href="https://discord.gg/Celery"><img src="https://raw.githubusercontent.com/AdministratorLua/AdministratorLua/main/wZgPoYaVlU0gAAAABJRU5ErkJggg.png" width="150" height="50"/></a>
 </p>
